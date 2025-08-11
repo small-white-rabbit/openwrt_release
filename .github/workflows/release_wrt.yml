@@ -8,11 +8,11 @@ on:
         required: true
         description: Device Model
         type: choice
-        default: jdcloud_ipq60xx_immwrt
+        default: wax206
         options:
           - aliyun_ap8220_immwrt
           - cmcc_rax3000m_immwrt
-          - jdcloud_ax6000_immwrt
+          - wax206
           - jdcloud_ipq60xx_immwrt
           - jdcloud_ipq60xx_libwrt
           - n1_immwrt
